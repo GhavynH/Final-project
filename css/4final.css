@@ -12,7 +12,12 @@ body {
     text-align: center;
     height: auto;
   }
-  
+  .p1 {
+    font-family: 'Pangolin', cursive;
+  }
+  .p2 {
+    font-family: 'Staatliches', cursive;
+  }
   #navbar {
     background-color: dimgrey;
     position: sticky;
