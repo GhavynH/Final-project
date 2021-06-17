@@ -7,7 +7,7 @@ body {
   }
   
   .header {
-    background-color: #f1f1f1;
+    background-color: lightpink#f1f1f1;
     padding: 30px;
     text-align: center;
     height: auto;
@@ -57,5 +57,14 @@ body {
       position: sticky;
       top: 0;
     }
+    .footer {
+      left: 0;
+      bottom: 0;
+      width: 100%;
+      background-color:lightpink;
+      color: white;
+      text-align: center;
+      height: 100px;
+   }
 
 }
