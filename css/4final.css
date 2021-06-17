@@ -7,7 +7,7 @@ body {
   }
   
   .header {
-    background-color: lightpink#f1f1f1;
+    background-color:mintcream;
     padding: 30px;
     text-align: center;
     height: auto;
@@ -17,6 +17,10 @@ body {
   }
   .p2 {
     font-family: 'Staatliches', cursive;
+  }
+  .h12 {
+    font-family: 'Pangolin', cursive;
+
   }
   #navbar {
     background-color: dimgrey;
@@ -61,9 +65,9 @@ body {
       left: 0;
       bottom: 0;
       width: 100%;
-      background-color:lightpink;
+      background-color: mintcream;
       color: white;
-      text-align: center;
+      text-align: left;
       height: 100px;
    }
 
