@@ -48,7 +48,7 @@ body {
   
   #navbar a:hover {
     background-color: #ddd;
-    color: black;
+    color: dimgrey  
   }
   
   #navbar a.active {
