@@ -3,6 +3,14 @@ background-color: #cccccc;
 background-repeat: no-repeat;
 background-size: cover
 }
+.hero-image {
+  background-image:url(./heroimage2.jpg);
+  height: 75%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
 
 .fa {
   font-size: 30px;
@@ -26,12 +34,6 @@ body {
     font-family: Arial, Helvetica, sans-serif;
   }
   
-  .header {
-    background-color:mintcream;
-    padding: 30px;
-    text-align: center;
-    height: auto;
-  }
   .p1 {
     font-family: 'Pangolin', cursive;
   }
