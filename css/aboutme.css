@@ -1,3 +1,24 @@
+body  {
+    background-color: #cccccc;
+    background-repeat: no-repeat;
+    background-size: cover
+    }
+    .fa {
+      font-size: 30px;
+      width: 50px;
+      text-align: center;
+      text-decoration: none;
+      margin: 5px 2px;
+    }
+    
+    .fa:hover {
+        opacity: 0.7;
+    }
+    .fa-youtube {
+      background: #bb0000;
+      color: white;
+    }
+    
 .accordion {
     font-family:Arial, Helvetica, sans-serif; 
     margin:0 auto;
@@ -124,7 +145,7 @@ p {
     background-color: mintcream;
     color: white;
     text-align: left;
-    height: 100px;
+    height: 150px;
     position:absolute;
     font-family: Arial, Helvetica, sans-serif;
     font-size: 28px;
