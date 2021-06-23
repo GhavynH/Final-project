@@ -1,3 +1,8 @@
+body  {
+background-color: #cccccc;
+background-repeat: no-repeat;
+background-size: cover
+}
 .fa {
   padding: 20px;
   font-size: 30px;
